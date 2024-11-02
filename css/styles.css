@@ -91,6 +91,7 @@ main {
 .card p {
     font-weight: 400;
     font-size: 13px;
+    line-height: 25px;
     letter-spacing: 0.09px;
     color: var(--dark-grey);
     text-align: start;
